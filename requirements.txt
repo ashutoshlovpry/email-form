@@ -185,8 +185,8 @@ tensorboard==2.5.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
 tensorflow==2.5.0
-tensorflow-estimator==2.5.0
-termcolor==1.1.0
+#tensorflow-estimator==2.5.0
+#termcolor==1.1.0
 terminado==0.10.0
 testpath==0.5.0
 #tf-estimator-nightly==2.5.0.dev2021032601
@@ -196,8 +196,8 @@ testpath==0.5.0
 tokenizers==0.10.3
 traitlets==5.0.5
 transformers==4.9.1
-tweepy==3.10.0
-tzlocal==2.1
+#tweepy==3.10.0
+#tzlocal==2.1
 uritemplate==3.0.1
 urllib3==1.26.5
 utils==1.0.1

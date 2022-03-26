@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ashutoshlovpry 
-ashutoshlovpry
-/
-email-form
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-email-form/requirements.txt
-@ashutoshlovpry
-ashutoshlovpry Update requirements.txt
-Latest commit a521976 1 hour ago
- History
- 1 contributor
-217 lines (217 sloc)  4.14 KB
-   
+  
 absl-py==0.12.0
 appdirs==1.4.4
 argon2-cffi==20.1.0

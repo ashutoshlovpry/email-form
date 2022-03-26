@@ -169,13 +169,13 @@ s3transfer==0.5.0
 sacremoses==0.0.45
 scikit-image==0.18.2
 scikit-learn==0.24.2
-scipy==0.9.3
+#scipy==0.9.3
 seaborn==0.11.1
 Send2Trash==1.5.0
 six==1.16.0
 sortedcontainers==2.4.0
-soupsieve==2.2.1
-SpeechRecognition==3.8.1
+#soupsieve==2.2.1
+#SpeechRecognition==3.8.1
 sqlparse==0.4.1
 stdlib-list==0.8.0
 tabula==1.0.5
